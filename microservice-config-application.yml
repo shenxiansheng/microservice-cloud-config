@@ -18,4 +18,8 @@ spring:
     application: 
         name: microservice-config-prod 
 #保存时注意，选择 UTF-8 保存
+<<<<<<< HEAD
 2342562346346234623626
+=======
+111111111111111111111111111111
+>>>>>>> origin/master
